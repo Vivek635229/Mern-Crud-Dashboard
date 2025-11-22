@@ -516,7 +516,7 @@ copies of the Software.
 <div align="center">
 
 **Vivek Khara**  
-_Full Stack Developer & UI/UX Enthusiast_
+_Software Developer & UI/UX Enthusiast_
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vivek635229-black?style=for-the-badge&logo=github)](https://github.com/Vivek635229)
 [![Email](https://img.shields.io/badge/Email-vivekkhara800%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkhara800@gmail.com)
